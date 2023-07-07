@@ -6,7 +6,7 @@ Steps to reproduce the behavior
 2. Now go to dashboard on github
 3. Go to create new > Import Repository...
 4. Go to the URL tab
-5. Paste repository URL (https://github.com/Ben/example.wiki.git)
+5. Paste the wiki clone URL (https://github.com/Ben/example.wiki.git)
 6. Choose one of the folders
 7. DONE
 
