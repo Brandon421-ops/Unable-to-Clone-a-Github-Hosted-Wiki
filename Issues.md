@@ -16,8 +16,6 @@ Error msg: We couldn't find that repository. Check that you are logged in, the n
 
 * Actual behavior: Cloning fails
 
-Logs 
-NA
+Logs: NA
 
-Additional context
-NA
+Additional context: NA
