@@ -12,10 +12,10 @@ Steps to reproduce the behavior
 
 Error msg: We couldn't find that repository. Check that you are logged in, the network is accessible, and the URL or repository alias are spelled correctly
 
-*Expected behavior: GitHub Desktop will clone the GitHub hosted wiki on your local machine
+* Expected behavior: GitHub Desktop will clone the GitHub hosted wiki on your local machine
 
-*Actual behavior: Cloning fails
+* Actual behavior: Cloning fails
 
-*Logs: NA
+* Logs: NA
 
-*Additional context: NA
+* Additional context: NA
