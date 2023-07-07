@@ -6,8 +6,8 @@ Steps to reproduce the behavior
 2. Now go to dashboard on github
 3. Go to create new > Import Repository...
 4. Go to the URL tab
-5 Paste repository URL (https://github.com/someonesgithubusername/theirRepositoryname.wiki.git)
-6 Choose one of the folders
+5. Paste repository URL (https://github.com/Ben/example.wiki.git)
+6. Choose one of the folders
 7. DONE
 
 Error msg: We couldn't find that repository. Check that you are logged in, the network is accessible, and the URL or repository alias are spelled correctly
